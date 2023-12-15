@@ -6,4 +6,4 @@ Lungevity team of CUFE-EECE2026 proudly presents their research project on lung 
 CT-scans dataset of normal, malignant and benign cases was used, all were published publically on Kaggle and Google datasets.
 
 
-#LungCancerDetection #DeepLearning #ResNt50lungcancerdetection #TogetherWeFight
+#LungCancerDetection #DeepLearning #ResNet50lungcancerdetection #TogetherWeFight
