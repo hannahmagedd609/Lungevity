@@ -1,16 +1,67 @@
 ## Table of Contents
 
-* [Introduction](#introduction)
 * [Getting Started](#getting-started)
-* [Usage](usage)
-    * [Basic Usage](#basic-usage)
-    * [Advanced Usage](#advanced-usage)
-* [Contributing](#contributing)
-* [License](#license)
+* [Technologies](#technologies)
+* [Poster](#poster)
+* [Report](#report)
+* [Presentation](#presentation)
+* [Team members](#team-members)
 
 
 
 
+## Getting Started
+
+**Briefly explain your project and its purpose.**
+
+**Include links to setup instructions and documentation:**
+
+- [Setup Instructions Link](https://example.com/setup)
+- [Documentation Link](https://example.com/docs)
+
+## Technologies
+
+**List the key technologies used in your project.**
+
+- Python
+- TensorFlow
+- NumPy
+
+**Briefly explain the role of each technology.**
+
+## Poster
+
+**Explain the key points and findings of your research poster.**
+
+**Include an image of the poster or a link to it:**
+
+[Poster Image](https://example.com/poster.png)
+
+## Report
+
+**Summarize your research report, including methodology, results, and conclusions.**
+
+**Include a link to the full report:**
+
+[Full Report](https://example.com/report.pdf)
+
+## Presentation
+
+**Summarize the key points of your presentation.**
+
+**Embed the presentation or link to it:**
+
+[Presentation Link](https://example.com/presentation)
+
+## Team Members
+
+**List the team members and their roles.**
+
+- Jane Doe (Team Lead)
+- John Smith (Developer)
+- Mary Jones (Researcher)
+
+**Include links to their profiles (optional).**
 
 
 
