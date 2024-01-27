@@ -41,14 +41,14 @@ which will facilitate finding a place for each patient according to their case a
 
 
 ## Poster
-[Poster Image]('C:\Users\admin\Downloads\Lungevity_team_poster.pdf')
+[Poster Image](C:\Users\admin\Downloads\Lungevity_team_poster.pdf)
 
 ## Report
 
-[Full Report]('C:\Users\admin\Downloads\Lungevity_team_FinalReport.pdf')
+[Full Report](C:\Users\admin\Downloads\Lungevity_team_FinalReport.pdf)
 
 ## Presentation
-[Presentation Link]('C:\Users\admin\Downloads\Lungevity_team_presentation.pptx')
+[Presentation Link](C:\Users\admin\Downloads\Lungevity_team_presentation.pptx)
 
 ## Team Members
 - Erini Hosny Maher 
