@@ -11,30 +11,36 @@
 
 
 ## Getting Started
+We, the Lungevity team from CUFE-EECE2026, are proud to present our research on lung cancer detection and prognosis, showcased at the 10th Mathematics Research Day. Utilizing ResNet50, a pre-trained convolutional neural network (CNN), we analyzed CT scans to differentiate between normal, malignant, and benign cases.
 
-**Briefly explain your project and its purpose.**
+Our foundation lies in a robust dataset of CT scans sourced from public platforms like Kaggle and Google datasets. This diverse collection encompasses normal, malignant, and benign lung cases, providing the necessary training ground for our AI model.
 
-**Include links to setup instructions and documentation:**
+Our Path Forward:
+This project is just the first step in our ongoing battle against lung cancer, we are looking forward to: 
+* Perform a detailed comparative analysis of ResNet-50 against competing models (AlexNet and 
+Inception-V3) to determine the model with the highest accuracy for cancer detection.
+* Instead of employing a two-level binary classification for cancer detection and classification, we 
+aim to transition towards a one-level multi-class classification approach, showing its impact on 
+the model's accuracy.
+* Regarding the IoT solution, the current situations in Palestine makes Egypt try to bring some of 
+the Palestinian patients who fight cancer to be treated in hospitals across Egypt, this motivates 
+us to think about using the IoT solution that we created to serve those patients by making it 
+available for them so they can publish their contact information and the cancer type that they 
+fight on a topic ,on our server, which is subscribed by the Egyptian cancer treatment centers 
+which will facilitate finding a place for each patient according to their case and age.
 
-- [Setup Instructions Link](https://example.com/setup)
-- [Documentation Link](https://example.com/docs)
 
 ## Technologies
-
-**List the key technologies used in your project.**
-
 - Python
 - TensorFlow
 - NumPy
+- Keras
+- Matplotlib
+- PIL
 
-**Briefly explain the role of each technology.**
+
 
 ## Poster
-
-**Explain the key points and findings of your research poster.**
-
-**Include an image of the poster or a link to it:**
-
 [Poster Image](https://example.com/poster.png)
 
 ## Report
@@ -46,33 +52,15 @@
 [Full Report](https://example.com/report.pdf)
 
 ## Presentation
-
-**Summarize the key points of your presentation.**
-
-**Embed the presentation or link to it:**
-
 [Presentation Link](https://example.com/presentation)
 
 ## Team Members
-
-**List the team members and their roles.**
-
-- Jane Doe (Team Lead)
-- John Smith (Developer)
-- Mary Jones (Researcher)
-
-**Include links to their profiles (optional).**
-
-
-
-
-
-# Lungevity
-ResNet-IoT-Based solution for Lung Cancer Diagnosis
-
-Lungevity team of CUFE-EECE2026 proudly presents their research project on lung cancer detection and prognosis using ResNet50 architecture, a pre-trained CNN model , undertaken for the 10th Mathematics Research Day.
-
-CT-scans dataset of normal, malignant and benign cases were used, all were published publically on Kaggle and Google datasets.
-
-
-#LungCancerDetection #DeepLearning #ResNet50lungcancerdetection #TogetherWeFight
+- Erini Hosny Maher 
+- Eman Yasser Gamal Eldin 
+- Aya Hassan Abdelrahman 
+- Manar Abdo Ali 
+- Mennatallah Karam Shehata 
+- Hana Khaled El-Sayed 
+- Hana Maged Mohamed 
+- Yara Ayman Abdelmaksoud 
+- Yara Soliman Mohamed 
