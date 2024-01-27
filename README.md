@@ -27,7 +27,7 @@ available for them so they can publish their contact information and the cancer 
 fight on a topic ,on our server, which is subscribed by the Egyptian cancer treatment centers 
 which will facilitate finding a place for each patient according to their case and age.
 
-![IoT all scenario]("C:\Users\admin\Desktop\iot.jpg")
+<img src="C:\Users\admin\Desktop\iot.jpg">
 
 
 
