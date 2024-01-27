@@ -49,7 +49,7 @@ which will facilitate finding a place for each patient according to their case a
 [Full Report](Lungevity_team_FinalReport.pdf)
 
 ## Presentation
-[Presentation Link](Lungevity_team_presentation.pptx)
+[Presentation](Lungevity_team_presentation.pptx)
 
 ## Team Members
 - Erini Hosny Maher 
