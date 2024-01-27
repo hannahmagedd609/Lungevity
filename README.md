@@ -41,7 +41,8 @@ which will facilitate finding a place for each patient according to their case a
 
 
 ## Poster
-[Poster Image](C:\Users\admin\Downloads\Lungevity_team_poster.pdf)
+[Poster Image](lungevity_team_poster.pdf)
+
 
 ## Report
 
