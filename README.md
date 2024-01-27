@@ -27,7 +27,7 @@ available for them so they can publish their contact information and the cancer 
 fight on a topic ,on our server, which is subscribed by the Egyptian cancer treatment centers 
 which will facilitate finding a place for each patient according to their case and age.
 
-![Mission Accomplished: A Snapshot of Our Success](C:\Users\admin\Downloads\iot_auto_x2.png)
+![iot_auto_x2](https://github.com/hannahmagedd609/Lungevity/assets/143964935/b65d5a3a-51ad-4756-8750-996fd185551f)
 
 
 
