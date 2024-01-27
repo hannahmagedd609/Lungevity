@@ -7,9 +7,7 @@
 * [Presentation](#presentation)
 * [Team members](#team-members)
 
-
-<details closed>
-<summary>**Getting Started**</summary>
+## Getting Started
 We, the Lungevity team from CUFE-EECE2026, are proud to present our research on lung cancer detection and prognosis, showcased at the 10th Mathematics Research Day. Utilizing ResNet50, a pre-trained convolutional neural network (CNN), we analyzed CT scans to differentiate between normal, malignant, and benign cases.
 
 Our foundation lies in a robust dataset of CT scans sourced from public platforms like Kaggle and Google datasets. This diverse collection encompasses normal, malignant, and benign lung cases, providing the necessary training ground for our AI model.
@@ -27,19 +25,15 @@ us to think about using the IoT solution that we created to serve those patients
 available for them so they can publish their contact information and the cancer type that they 
 fight on a topic ,on our server, which is subscribed by the Egyptian cancer treatment centers 
 which will facilitate finding a place for each patient according to their case and age.
-</details>
 
-<details closed>
-<summary>**Technologies**</summary>
+
+## Technologies
 - Python
 - TensorFlow
 - NumPy
 - Keras
 - Matplotlib
 - PIL
-</details>
-
-
 
 
 ## Poster
