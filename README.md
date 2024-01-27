@@ -41,18 +41,14 @@ which will facilitate finding a place for each patient according to their case a
 
 
 ## Poster
-[Poster Image](https://example.com/poster.png)
+[Poster Image]("C:\Users\admin\Downloads\Lungevity_team_poster.pdf")
 
 ## Report
 
-**Summarize your research report, including methodology, results, and conclusions.**
-
-**Include a link to the full report:**
-
-[Full Report](https://example.com/report.pdf)
+[Full Report]("C:\Users\admin\Downloads\Lungevity_team_FinalReport.pdf")
 
 ## Presentation
-[Presentation Link](https://example.com/presentation)
+[Presentation Link]("C:\Users\admin\Downloads\Lungevity_team_presentation.pptx")
 
 ## Team Members
 - Erini Hosny Maher 
