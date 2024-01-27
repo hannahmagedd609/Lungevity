@@ -48,7 +48,7 @@ which will facilitate finding a place for each patient according to their case a
 ## Presentation
 [Presentation](Lungevity_team_presentation.pptx)
 
-##Notebook
+## Notebook
 [Notebook](https://colab.research.google.com/drive/1MW95A6dtN7-isAp6lO3sGsEo3_PENubE)
 
 ## Team Members
